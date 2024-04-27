@@ -17,6 +17,7 @@
 ### 📫 Cómo contactarme:
 - Correo: bastian3967a@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/bastian-rodriguez-r-8b0781211/)
+- Portafolio web: [DevBastian](https://devbastian.reflex.run/)
 
 ### 📊 Estadísticas de GitHub:
 ![Estadísticas de GitHub de [Tu Nombre]](https://github-readme-stats.vercel.app/api?username=baldFamous&show_icons=true&theme=tokyonight)
