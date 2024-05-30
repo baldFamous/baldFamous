@@ -16,7 +16,7 @@
 
 ### 📫 Cómo contactarme:
 - Correo: bastian3967a@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bastian-rodriguez-r-8b0781211/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bastian-rodriguez-8b0781211/)
 - Portafolio web: [DevBastian](https://devbastian.reflex.run/)
 
 ### 📊 Estadísticas de GitHub:
