@@ -10,6 +10,8 @@
 
 ### 🛠 Tecnologías y Herramientas:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![Django](https://img.shields.io/badge/-Django-blue?logo=Django)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
