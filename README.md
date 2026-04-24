@@ -3,9 +3,8 @@
 ## Bienvenido a mi perfil de GitHub!
 
 ### 💡 Sobre Mí
-- 🌱 Soy programador junior en Python y React
+- 🌱 Soy programador en Python y React
 - 👯 Colaboro en proyectos sobre Desarrollo web y ciencia de datos
-- 🥅 Mis metas para este año son lograr contribuir en proyectos open source y aprender más sobre IA y Python
 
 
 ### 🛠 Tecnologías y Herramientas:
